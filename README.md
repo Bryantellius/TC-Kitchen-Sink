@@ -21,7 +21,7 @@
 1. Compute the result of adding 5 and 4 and store it in an appropriately named variable.
 2. Compute the result of comparing 5 being greater than 4 and store it in an appropriately named variable.
 3. Compute the result of multiplying 231 and 4 and store it in an appropriately named variable.
-4. Compute the result of adding 5 and 4 and store it in an appropriately named variable.
+4. Compute the result of negating the value of product and store it in an appropriately named variable.
 
 ### Comments
 
